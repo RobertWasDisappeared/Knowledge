@@ -1,0 +1,9 @@
+# Temporary files
+
+*.tmp
+*.temp
+
+# Operating System files
+
+.DS_Store
+Thumbs.db
